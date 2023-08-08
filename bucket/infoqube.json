@@ -1,13 +1,13 @@
 {
-    "version": "122o",
+    "version": "122p",
     "description": "information management system",
     "homepage": "http://www.infoqube.biz/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://infoqubeim.com/drupal5/index.php?q=node/632"
     },
-    "url": "https://infoqubeim.com/downloadarea/InfoQubeV122oPortable.zip",
-    "hash": "d0f5f92abaff0f2b09917536aaad92ccc7c6f39b9ccaca61268492f463d2fb38",
+    "url": "https://infoqubeim.com/downloadarea/InfoQubeV122pPortable.zip",
+    "hash": "f227b7158d7c50dca1f7ed973f4df5fa15d0ed05a10d597517628bc7a91b7a5e",
     "shortcuts": [
         [
             "InfoQube.exe",
