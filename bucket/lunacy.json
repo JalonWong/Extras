@@ -1,5 +1,5 @@
 {
-    "version": "9.1.0",
+    "version": "9.2.0",
     "description": "Free Graphic Design Software",
     "homepage": "https://icons8.com/lunacy",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://lun-eu.icons8.com/s/setup/LunacySetup_9.1.0.exe",
-            "hash": "20fbf76d59776fc5bb0bbc7410a72c62a83fad88f236d1e3edb426f13f781561"
+            "url": "https://lun-eu.icons8.com/s/setup/LunacySetup_9.2.0.exe",
+            "hash": "c3647071fed1b1dba71c76d331e183c89201e396ff4235c0ba58dce8fb19b19c"
         }
     },
     "innosetup": true,
