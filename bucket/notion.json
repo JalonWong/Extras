@@ -1,5 +1,5 @@
 {
-    "version": "2.0.40",
+    "version": "2.0.53",
     "description": "Collaborative note taking",
     "homepage": "https://www.notion.so/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://desktop-release.notion-static.com/Notion%20Setup%202.0.40.exe#/dl.7z",
-            "hash": "sha512:50e0115fbfe83ad1ab3f946a24e3e5206443938c768d3cf4a12391cff0730ea6e2d20b4c15c01f9216dee6b745bd679fcd92f7cacb525e3014fab8b9dd489fc5",
+            "url": "https://desktop-release.notion-static.com/Notion%20Setup%202.0.53.exe#/dl.7z",
+            "hash": "sha512:60ddf023159d9c012ec723bed06c7a966d3bee9594cdec388132403f19d5d251ba8c55ac6c2296debbc7d22a8f5f05ac8774a808fcb146e61916d0c48d2660c5",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$*\" -Recurse"
