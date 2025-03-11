@@ -1,12 +1,12 @@
 {
-    "version": "0.9.7.2",
+    "version": "0.9.8",
     "description": "Enhanced Registry editor/explorer",
     "homepage": "https://github.com/zodiacon/TotalRegistry",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zodiacon/TotalRegistry/releases/download/v0.9.7.2/TotalReg.exe",
-            "hash": "b2c2921e5fb276dc16746e177fa8100f586b6e94726132d2846ebfa69ae300d2"
+            "url": "https://github.com/zodiacon/TotalRegistry/releases/download/v0.9.8/TotalReg.exe",
+            "hash": "e5b603efad3138900df44735e7b430bfd1bc5e34a265c7e92c01e444e848b211"
         }
     },
     "shortcuts": [
