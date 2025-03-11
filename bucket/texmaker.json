@@ -1,5 +1,5 @@
 {
-    "version": "5.1.3",
+    "version": "6.0.0",
     "description": "A free, modern and cross-platform LaTeX editor that integrates many tools needed to develop documents with LaTeX.",
     "homepage": "https://www.xm1math.net/texmaker/",
     "license": "GPL-2.0-only",
@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://www.xm1math.net/texmaker/assets/files/texmakerwin64usb.zip",
-            "hash": "2daad4008b06702dcbb3d1a81786573e5a3a64c778a88a5cd845c1d7c441c775"
+            "hash": "05368a49513beb2b3616c1a0926f51d369f25ef66a4badf391681de09cd1b4fb"
         }
     },
     "extract_dir": "texmakerwin64usb",
