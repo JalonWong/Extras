@@ -1,10 +1,10 @@
 {
-    "version": "1.10.50",
+    "version": "1.10.53",
     "description": "Recovery and prevention of Repetitive Strain Injury (RSI)",
     "homepage": "http://www.workrave.org",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/rcaelers/workrave/releases/download/v1_10_50/workrave-win32-v1.10.50.exe",
-    "hash": "696b41061ae215bd1152f9b9043b73b1b0aba8e980329d7657e686fbb480c764",
+    "url": "https://github.com/rcaelers/workrave/releases/download/v1_10_53/workrave-win32-v1.10.53.exe",
+    "hash": "91075497725247226b4325f12ed9ab657bb09640228fe82503faba4bd42484e9",
     "innosetup": true,
     "shortcuts": [
         [
