@@ -1,16 +1,16 @@
 {
-    "version": "4.2.0",
+    "version": "5.5",
     "description": "A simple and easy-to-use library to enjoy videogames programming (this version is for the MinGW compiler)",
     "homepage": "https://www.raylib.com/",
     "license": "Zlib",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/raysan5/raylib/releases/download/4.2.0/raylib-4.2.0_win64_mingw-w64.zip",
-            "hash": "b41df854369db23ab5c938148b66ef1559d9b764f264a52706b4facd8f9cf225"
+            "url": "https://github.com/raysan5/raylib/releases/download/5.5/raylib-5.5_win64_mingw-w64.zip",
+            "hash": "fe8feda1b92fc02826e2d19c631d648fd0563b93b144893fe18140e9fe4fb6fd"
         },
         "32bit": {
-            "url": "https://github.com/raysan5/raylib/releases/download/4.2.0/raylib-4.2.0_win32_mingw-w64.zip",
-            "hash": "d1aeb4ca3fa8dcb69902999ecaaa034ec1715a7a9aa6d8eebfe7f567ba50a2ec"
+            "url": "https://github.com/raysan5/raylib/releases/download/5.5/raylib-5.5_win32_mingw-w64.zip",
+            "hash": "150379531e1f4bf58fc92560e486ba7ca878027b1116f71e4eae4f84aed24c6c"
         }
     },
     "post_install": [
