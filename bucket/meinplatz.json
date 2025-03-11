@@ -1,5 +1,5 @@
 {
-    "version": "8.23",
+    "version": "8.41",
     "description": "Hard disk scan and folder size tool",
     "homepage": "http://www.softwareok.com/?seite=Freeware/MeinPlatz",
     "license": {
@@ -9,11 +9,11 @@
     "architecture": {
         "64bit": {
             "url": "https://www.softwareok.com/Download/MeinPlatz_Portable_x64.zip",
-            "hash": "de4579a3cde6a202e976480953703439a9e2ef66aba290a834dda4f5e4c9397e"
+            "hash": "a2df02c924f7cbebdd2e248d8b0d945a1aac63d0fda812b2f51de8205c027a41"
         },
         "32bit": {
             "url": "https://www.softwareok.com/Download/MeinPlatz_Portable.zip",
-            "hash": "94406d2ad9302513257b30e7a6e90852b36b0e47c1b290b8b5ab622ac6675b24"
+            "hash": "e04833deadb384886de9841dcdfeafd1e91b67b486db0d4a24287c45efb1c950"
         }
     },
     "extract_dir": "MeinPlatz",
