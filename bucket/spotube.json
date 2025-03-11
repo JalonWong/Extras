@@ -1,12 +1,12 @@
 {
-    "version": "2.6.0",
+    "version": "4.0.0",
     "description": "A lightweight free Spotify client, which handles playback manually, streams music using Youtube & no Spotify premium account is needed.",
     "homepage": "https://spotube.netlify.app/",
     "license": "BSD-4-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/KRTirtho/spotube/releases/download/v2.6.0/Spotube-windows-x86_64-setup.exe",
-            "hash": "10a6f35257ebde6dcd9054cca1a9afe75c352c675a579728f3334606c97d56c7"
+            "url": "https://github.com/KRTirtho/spotube/releases/download/v4.0.0/Spotube-windows-x86_64-setup.exe",
+            "hash": "8834763b3687cee813434b17e29379490725caa20e259ceb1d842cb007dbfaf7"
         }
     },
     "innosetup": true,
