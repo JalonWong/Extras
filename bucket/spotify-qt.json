@@ -1,16 +1,16 @@
 {
-    "version": "3.9",
+    "version": "3.12",
     "description": "Lightweight Spotify client using Qt",
     "homepage": "https://github.com/kraxarn/spotify-qt",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kraxarn/spotify-qt/releases/download/v3.9/spotify-qt-v3.9-win64.zip",
-            "hash": "98d32be1938f09f49e1849a65258f733ca840c9d87268501a92dbd728c6c8eb3"
+            "url": "https://github.com/kraxarn/spotify-qt/releases/download/v3.12/spotify-qt-v3.12-win64.zip",
+            "hash": "09f934d5bb91fb187df2bed4746b55974d0b4cb499d3bf0997270704b531972b"
         },
         "32bit": {
-            "url": "https://github.com/kraxarn/spotify-qt/releases/download/v3.9/spotify-qt-v3.9-win32.zip",
-            "hash": "ae1f731ab6dfaea1f5aa60675e1d5acc6aa029ad3fb962b21b1228d73edf8f64"
+            "url": "https://github.com/kraxarn/spotify-qt/releases/download/v3.12/spotify-qt-v3.12-win32.zip",
+            "hash": "53f19388a1ae3216d2e4973684f6a1ca4463f2e62d086e992912d2cc862c0fb4"
         }
     },
     "shortcuts": [
