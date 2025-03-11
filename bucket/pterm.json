@@ -1,16 +1,16 @@
 {
-    "version": "0.78",
+    "version": "0.83",
     "description": "a PuTTY-like wrapper program for Windows command prompts (or anything else running in a Windows console) that is not included in putty all-in-one archive/installer",
     "homepage": "https://www.chiark.greenend.org.uk/~sgtatham/putty/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://the.earth.li/~sgtatham/putty/0.78/w64/pterm.exe",
-            "hash": "sha512:333552f8dd47a06042f806593af902c3b8243761b6e38dbd369356d975d6a87ba3831c72fa19521abec424b262704607342142311d2bf14d5196c71f2f1f942d"
+            "url": "https://the.earth.li/~sgtatham/putty/0.83/w64/pterm.exe",
+            "hash": "sha512:3c2f3c77e77aafa687bf9763431f27f12a337849b9956bf8af9f1e616aeef4a247214fc49c68d4710779083891b44618d836acae95fb303de181085c66692199"
         },
         "32bit": {
-            "url": "https://the.earth.li/~sgtatham/putty/0.78/w32/pterm.exe",
-            "hash": "sha512:bb5e5c01df811209b0cdd9d97994056d2ce02e8da28e4642c09557b09076c23abc7383eae0ef42c5a6d421a7f8712c71d4de40e549ebd9807caa2c6edbda1022"
+            "url": "https://the.earth.li/~sgtatham/putty/0.83/w32/pterm.exe",
+            "hash": "sha512:024cce1e6ad79b69fddfe7f3fce5a7612c1ca6fdd7555245d17577e13a68e6c398161dd6055ce7d9cda7425dcc165b99ab26f937d9a88e06d764897c1864e2db"
         }
     },
     "bin": "pterm.exe",
