@@ -1,16 +1,16 @@
 {
-    "version": "3.4.3",
+    "version": "3.4.17",
     "description": "A SQLite database manager",
     "homepage": "https://sqlitestudio.pl",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.3/sqlitestudio_x64-3.4.3.zip",
-            "hash": "3e49bb744bef83cb50a01f88c6e739365507b11d0820cb9de9ec62a6413bc342"
+            "url": "https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.17/sqlitestudio_x64-3.4.17.zip",
+            "hash": "cc2705b3268745c01782101a963f29708d3ec2bee86a9b7b531a7ce3e80441f8"
         },
         "32bit": {
-            "url": "https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.3/sqlitestudio_i386-3.4.3.zip",
-            "hash": "711626cf946ec4a698d00d60910510bce5c6fa2f0a5bb186dd8ae8bc389bb27e"
+            "url": "https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.17/sqlitestudio_i386-3.4.17.zip",
+            "hash": "b826430a86c1f144f51ccdc854b100cf2af77005f502da0ed3f16661a123ecb9"
         }
     },
     "extract_dir": "SQLiteStudio",
