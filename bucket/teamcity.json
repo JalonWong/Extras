@@ -1,5 +1,5 @@
 {
-    "version": "2022.10.2.117025",
+    "version": "2024.12.3.174541",
     "description": "Continuous Integration server by JetBrains.",
     "homepage": "https://www.jetbrains.com/teamcity/",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://www.jetbrains.com/store/license.html"
     },
     "notes": "TeamCity can be started from anywhere using 'teamcity' command.",
-    "url": "https://download.jetbrains.com/teamcity/TeamCity-2022.10.exe#/dl.7z",
-    "hash": "80857d2a8e391c0e34299ac8f69a357828d994c0ea5cedd736220b131a0ef88d",
+    "url": "https://download.jetbrains.com/teamcity/TeamCity-2024.12.exe#/dl.7z",
+    "hash": "ea782454ee74257e09243f0df1f1484992138dfb5cd7ab01a2aed817cbc34411",
     "installer": {
         "script": [
             "Remove-Item \"$dir\\`$*\" -Recurse",
