@@ -1,5 +1,5 @@
 {
-    "version": "1.10.163",
+    "version": "1.13.194",
     "description": "Internet Speedtest GUI for Windows",
     "homepage": "https://www.speedtest.net/apps/windows",
     "license": {
@@ -9,12 +9,12 @@
     "architecture": {
         "64bit": {
             "url": "https://install.speedtest.net/app/windows/latest/speedtestbyookla_x64.msi",
-            "hash": "0c4fc9e11056dbc5ac3fec66f8cbfb5dea9a327fef3cbea878c347b70d89df30",
+            "hash": "b2f69cc7c8fcf6038a7f76773732f12268ad58c46b7164afb4475ac35afc2b5d",
             "extract_dir": "ProgramFiles64Folder\\Speedtest"
         },
         "32bit": {
             "url": "https://install.speedtest.net/app/windows/latest/speedtestbyookla_x86.msi",
-            "hash": "934a5ed894432fadc07b7cca9ed1bdc0b67f970e19d1e6e209ba35162fc9227b",
+            "hash": "6563db0c4ac93250d899ec0cee7b75288e0f09c0d1ce65413e18fcfd0c1c143d",
             "extract_dir": "ProgramFilesFolder\\Speedtest"
         }
     },
