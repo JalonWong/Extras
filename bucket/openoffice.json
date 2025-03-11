@@ -1,10 +1,10 @@
 {
-    "version": "4.1.13",
+    "version": "4.1.15",
     "description": "Office software suite for word processing, spreadsheets, presentations, graphics, databases and more",
     "homepage": "https://www.openoffice.org",
     "license": "Apache-2.0",
-    "url": "https://archive.apache.org/dist/openoffice/4.1.13/binaries/en-GB/Apache_OpenOffice_4.1.13_Win_x86_install_en-GB.exe#/dl.7z",
-    "hash": "sha512:3d5875718f10e00623b47c1c5e361c4f986821ad0c22278bed7c60e46ca803af768891aff03b53b49f7f53274c30f2b95311522f439b1bea70eec9e6ac2177aa",
+    "url": "https://archive.apache.org/dist/openoffice/4.1.15/binaries/en-GB/Apache_OpenOffice_4.1.15_Win_x86_install_en-GB.exe#/dl.7z",
+    "hash": "sha512:2e57789c09c066458955698d3910133fbe599a635ea4118e9329ed3e7db0d8a68af1d0e065047fc5891d261e546e6083d6097ef47d38afa1669a2fde6a4846ba",
     "pre_install": [
         "$splat = @{ 'DestinationPath' = \"$dir\\App\" }",
         "if (get_config USE_LESSMSI $false) { $splat.Add('ExtractDir', 'OpenOffice 4') }",
