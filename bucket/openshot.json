@@ -1,5 +1,5 @@
 {
-    "version": "3.0.0",
+    "version": "3.3.0",
     "description": "Easy to use video editor",
     "homepage": "https://www.openshot.org/",
     "license": "GPL-3.0-or-later",
@@ -9,12 +9,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.0.0/OpenShot-v3.0.0-x86_64.exe",
-            "hash": "39b5ac64311fe5de96cdf1c6660bd6a35ef1b1213ee48047e48932caba2e0e91"
+            "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.3.0/OpenShot-v3.3.0-x86_64.exe",
+            "hash": "307b7b7bd760cbe3535f6d8f485ecd9eb4f877250d9c5e432c4790d7f1177d35"
         },
         "32bit": {
-            "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.0.0/OpenShot-v3.0.0-x86.exe",
-            "hash": "ed9fefd35989b512e962db7207187b3ae4e94cb2dcd4c233443c03ba180c86b6"
+            "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.3.0/OpenShot-v3.3.0-x86.exe",
+            "hash": "9bfecfb990524bdaf843d5cb0b084ba48928f7d9cf03367865501c38a7c65c57"
         }
     },
     "innosetup": true,
