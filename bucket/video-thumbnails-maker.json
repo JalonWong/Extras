@@ -1,16 +1,16 @@
 {
-    "version": "23.0.0.0",
+    "version": "27.0.0.0",
     "description": "Video thumbnails creator",
     "homepage": "http://www.suu-design.com/projects_vtm.html",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "http://www.suu-design.com/Files/VTM/6400299481/VideoThumbnailsMaker_64bit_Setup.zip",
-            "hash": "989a745673c53ce3e3d508b01e4f0cec1e9c994bacca56ad5b145feaa06d3ac6"
+            "url": "http://www.suu-design.com/Files/VTM/4920179512/VideoThumbnailsMaker_64bit_Setup.zip",
+            "hash": "f322e0299d268e98b2cadb7857623cb601e27a338daaa860e3dc400609c0d598"
         },
         "32bit": {
-            "url": "http://www.suu-design.com/Files/VTM/6400299481/VideoThumbnailsMaker_32bit_Setup.zip",
-            "hash": "24f9465151390416cab1fa492bc8d6b4c2e643296c25aaf5186ccdafe982889e"
+            "url": "http://www.suu-design.com/Files/VTM/4920179512/VideoThumbnailsMaker_32bit_Setup.zip",
+            "hash": "dcef597c657c803cf4ba7fa376dc4a88e7901faedf362d19cdeae0ead594e7ae"
         }
     },
     "pre_install": [
