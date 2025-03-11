@@ -1,12 +1,12 @@
 {
-    "version": "3.58.0",
+    "version": "3.64.0",
     "description": "Lossless trimming tool for video and audio files",
     "homepage": "https://github.com/mifi/lossless-cut",
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mifi/lossless-cut/releases/download/v3.58.0/LosslessCut-win-x64.7z",
-            "hash": "0205af2d4f66daaedfc5961780718c8048f558b3f95f3111abbb567229f6ff7d"
+            "url": "https://github.com/mifi/lossless-cut/releases/download/v3.64.0/LosslessCut-win-x64.7z",
+            "hash": "158ae74e26790134fe634f3371e2081db54cfffe41836a33204c82e54c66227a"
         }
     },
     "bin": "LosslessCut.exe",
