@@ -1,13 +1,13 @@
 {
-    "version": "2021.1.0",
+    "version": "2023.3.0",
     "description": "3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework.",
     "homepage": "https://alicevision.org/",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/alicevision/meshroom/releases/download/v2021.1.0/Meshroom-2021.1.0-win64.zip",
-            "extract_dir": "Meshroom-2021.1.0",
-            "hash": "md5:12253b9e3a105a72745cd0306500e1fc"
+            "url": "https://github.com/alicevision/meshroom/releases/download/v2023.3.0/Meshroom-2023.3.0-win64.zip",
+            "extract_dir": "Meshroom-2023.3.0",
+            "hash": "2519565cd38e5d3433748cd09fcd835b7f1c709ed9b098eb6b29f4336c4e345f"
         }
     },
     "bin": "meshroom.exe",
