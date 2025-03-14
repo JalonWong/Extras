@@ -1,5 +1,5 @@
 {
-    "version": "5.40.2667",
+    "version": "5.40.2668",
     "description": "Audio player",
     "homepage": "http://www.aimp.ru",
     "license": {
@@ -7,7 +7,7 @@
         "url": "http://www.aimp.ru/files/windows/EULA_lang-en.txt"
     },
     "url": "http://www.aimp.ru/?do=download.file&id=8#/dl.zip",
-    "hash": "1f5c07d294fc17af4b167882aadd024e8f2eeea606e6d6a2798dcf0019d772ab",
+    "hash": "208a5ded1b118f1de9945a4ebe14f7234406f327d73a563647e65c89be82a8bb",
     "extract_dir": "AIMP",
     "bin": [
         "AIMP.exe",
