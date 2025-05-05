@@ -1,5 +1,5 @@
 {
-    "version": "4.5.1",
+    "version": "5.1.0",
     "description": "Free and reliable P2P Bittorent client.",
     "homepage": "https://www.qbittorrent.org/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.5.1/qbittorrent_4.5.1_x64_setup.exe#/dl.7z",
-            "hash": "c196a5a9bedb926fde629a7075cbf9a0b7d36f54088d8a699dd541a4f4af5a13"
+            "url": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-5.1.0/qbittorrent_5.1.0_x64_setup.exe#/dl.7z",
+            "hash": "8a8f4f9d4273aacc25dc552ba10fd7fc17ec28c1a1f184356ae8ae53f651a6b7"
         }
     },
     "pre_install": [
