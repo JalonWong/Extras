@@ -1,5 +1,5 @@
 {
-    "version": "185",
+    "version": "186",
     "description": "A centrally managed, geographically diverse network of thousands of proxy servers, using a performance-oriented, single hop architecture, for Internet censorship circumvention",
     "homepage": "https://psiphon.ca",
     "license": "GPL-3.0-only",
@@ -8,7 +8,7 @@
         "Privacy Policy:    https://psiphon.ca/en/privacy.html"
     ],
     "url": "https://psiphon.ca/psiphon3.exe",
-    "hash": "5343cf0b4b0a65c7632a19100538e8e8de41071d3e5e320d7cf580ad2be5092f",
+    "hash": "1cf5c664096f79ee08ef38487bfca913a55e040ae9cc9b6e3d12dd5d5683e0da",
     "shortcuts": [
         [
             "psiphon3.exe",
